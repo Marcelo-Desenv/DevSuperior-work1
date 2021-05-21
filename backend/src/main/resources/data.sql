@@ -1,4 +1,4 @@
-INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Aline', '12345678901', 2000.00, TIMESTAMP WITH TIME ZONE '1975-07-01T02:40Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Aline', '12345678000', 2000.00, TIMESTAMP WITH TIME ZONE '1975-07-01T02:40Z', 3);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Patricia', '12345678902', 2500.00, TIMESTAMP WITH TIME ZONE '1970-02-10T04:20Z', 2);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Daniela', '12345678903', 4200.00, TIMESTAMP WITH TIME ZONE '1982-09-25T15:10Z', 2);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Anderson', '12345678904', 2370.00, TIMESTAMP WITH TIME ZONE '1990-04-21T20:30Z', 1);
