@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Aline', '12345678901', 2000.00, TIMESTAMP WITH TIME ZONE '1975-07-01T02:40Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Patricia', '12345678902', 2500.00, TIMESTAMP WITH TIME ZONE '1970-02-10T04:20Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Daniela', '12345678903', 4200.00, TIMESTAMP WITH TIME ZONE '1982-09-25T15:10Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Anderson', '12345678904', 2370.00, TIMESTAMP WITH TIME ZONE '1990-04-21T20:30Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Silvia', '12345678905', 4780.00, TIMESTAMP WITH TIME ZONE '1960-08-10T05:27Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Joao', '12345678906', 3000.00, TIMESTAMP WITH TIME ZONE '1995-03-17T00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Luciana', '12345678907', 1800.00, TIMESTAMP WITH TIME ZONE '2000-11-03T14:48Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Pedro', '12345678908', 2190.00, TIMESTAMP WITH TIME ZONE '1985-12-21T06:15Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Renata', '12345678909', 3260.00, TIMESTAMP WITH TIME ZONE '2002-10-22T03:05Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Sergio', '12345678910', 5240.00, TIMESTAMP WITH TIME ZONE '1980-01-12T09:34Z', 1);
