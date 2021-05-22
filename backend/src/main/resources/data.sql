@@ -8,3 +8,13 @@ INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Luciana
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Pedro', '12345678908', 2190.00, TIMESTAMP WITH TIME ZONE '1985-12-21T06:15Z', 1);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Renata', '12345678909', 3260.00, TIMESTAMP WITH TIME ZONE '2002-10-22T03:05Z', 2);
 INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Sergio', '12345678910', 5240.00, TIMESTAMP WITH TIME ZONE '1980-01-12T09:34Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Ricardo', '23456789100', 1250.00, TIMESTAMP WITH TIME ZONE '1971-03-19T05:40Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Priscila', '23456789101', 3100.00, TIMESTAMP WITH TIME ZONE '1985-12-30T08:05Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Bruno', '23456789102', 4000.00, TIMESTAMP WITH TIME ZONE '1960-11-17T21:38Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Joana', '23456789103', 7250.00, TIMESTAMP WITH TIME ZONE '1980-04-23T01:45Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Guilherme', '23456789104', 2465.00, TIMESTAMP WITH TIME ZONE '1977-09-02T07:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Carolina', '23456789105', 8000.00, TIMESTAMP WITH TIME ZONE '1983-02-10T13:50Z', 4);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Beatriz', '23456789106', 2100.00, TIMESTAMP WITH TIME ZONE '1992-10-25T17:21Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Juliana', '23456789107', 2840.00, TIMESTAMP WITH TIME ZONE '1997-06-08T14:25Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Fabiola', '23456789108', 4372.00, TIMESTAMP WITH TIME ZONE '1987-10-22T03:05Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Camila', '23456789109', 6370.00, TIMESTAMP WITH TIME ZONE '1972-08-05T20:25Z', 3);
